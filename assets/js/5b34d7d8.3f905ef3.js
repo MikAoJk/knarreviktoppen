@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[1242],{6502:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/knarreviktoppen/blog/tags/hola","allTagsPath":"/knarreviktoppen/blog/tags","count":1}')}}]);
