@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[622],{4778:e=>{e.exports=JSON.parse('[{"label":"hello","permalink":"/knarreviktoppen/blog/tags/hello","count":1},{"label":"docusaurus","permalink":"/knarreviktoppen/blog/tags/docusaurus","count":1}]')}}]);
