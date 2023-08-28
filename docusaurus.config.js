@@ -58,8 +58,8 @@ const config = {
         title: 'Hjem',
         items: [
           {to: '/blog', label: 'Nyheter', position: 'left'},
-          {to: '/docs/vedtekter', label: 'Vedtekter', position: 'left'},
           {to: '/docs/styret', label: 'Styret', position: 'left'},
+          {to: '/docs/vedtekter', label: 'Vedtekter', position: 'left'},
         ],
       },
       footer: {
