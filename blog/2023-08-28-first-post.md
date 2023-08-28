@@ -1,8 +1,8 @@
 ---
 slug: long-blog-post
-title: Long Blog Post
+title: Første nyhets sak
 authors: joakim
-tags: [hello, docusaurus]
+tags: [nyhet, alle]
 ---
 
 This is the summary of a very long blog post
