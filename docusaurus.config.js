@@ -66,6 +66,9 @@ const config = {
         style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} Knarreviktoppen velforening`,
       },
+      colorMode: {
+        defaultMode: 'dark',
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
