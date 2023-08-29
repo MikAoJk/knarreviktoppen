@@ -2,7 +2,7 @@
 slug: long-blog-post
 title: Første nyhets sak
 authors: joakim
-tags: [nyhet, alle]
+tags: [nyhet, nettside]
 ---
 
 This is the summary of a very long blog post
