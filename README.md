@@ -2,6 +2,11 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
+
+#### Requirements
+* Yarn
+* Npm
+
 Yarn can be installed through npm package manager, with this command:
 ``` bash
 npm install --global yarn
