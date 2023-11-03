@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"F\xf8rste nyhets sak","permalink":"/knarreviktoppen/blog/long-blog-post","unlisted":false}]}')}}]);
