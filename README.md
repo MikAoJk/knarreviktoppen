@@ -1,11 +1,9 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
-
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 #### Requirements
 * Yarn
-* Npm
 
 Yarn can be installed through npm package manager, with this command:
 ``` bash
@@ -36,5 +34,5 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Deployment is triggerd with GitHub Actions
-The result is available here: https://mikaojk.github.io/knarreviktoppen/
+Deployment is currently triggerd with GitHub Actions
+The website is available here: https://mikaojk.github.io/knarreviktoppen/
