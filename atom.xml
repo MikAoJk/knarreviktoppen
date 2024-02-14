@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Knarreviktoppen velforening Blog</title>
-        <link>https://mikaojk.github.io/knarreviktoppen/blog</link>
-        <description>Knarreviktoppen velforening Blog</description>
-        <lastBuildDate>Mon, 28 Aug 2023 00:00:00 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <language>no</language>
-        <item>
-            <title><![CDATA[Første nyhets sak]]></title>
-            <link>https://mikaojk.github.io/knarreviktoppen/blog/long-blog-post</link>
-            <guid>https://mikaojk.github.io/knarreviktoppen/blog/long-blog-post</guid>
-            <pubDate>Mon, 28 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post]]></description>
-            <content:encoded><![CDATA[<p>This is the summary of a very long blog post</p>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mikaojk.github.io/knarreviktoppen/</id>
+    <title>Knarreviktoppen velforening Blog</title>
+    <updated>2023-08-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mikaojk.github.io/knarreviktoppen/"/>
+    <subtitle>Knarreviktoppen velforening Blog</subtitle>
+    <icon>https://mikaojk.github.io/knarreviktoppen/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Første nyhets sak]]></title>
+        <id>https://mikaojk.github.io/knarreviktoppen/long-blog-post</id>
+        <link href="https://mikaojk.github.io/knarreviktoppen/long-blog-post"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the summary of a very long blog post]]></summary>
+        <content type="html"><![CDATA[<p>This is the summary of a very long blog post</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
@@ -30,9 +29,11 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>nyhet</category>
-            <category>nettside</category>
-        </item>
-    </channel>
-</rss>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <author>
+            <name>Joakim Taule Kartveit</name>
+        </author>
+        <category label="nyhet" term="nyhet"/>
+        <category label="nettside" term="nettside"/>
+    </entry>
+</feed>
