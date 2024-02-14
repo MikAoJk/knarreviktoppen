@@ -9,3 +9,4 @@ Styret består pr dags dato av følgende medlemmer
 |-------------|----------|--------------------------|
 | Styreleder  | Cathrine |                          |
 | Styremedlem | Joakim   | joakimkartveit@gmail.com |
+| Styremedlem | Mariann  |  |
