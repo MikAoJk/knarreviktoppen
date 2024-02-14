@@ -40,6 +40,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),        
         },
         blog: {
+          routeBasePath: '/',
           showReadingTime: false,
         },
         theme: {
