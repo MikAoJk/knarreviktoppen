@@ -56,7 +56,7 @@ const config = {
       navbar: {
         title: 'Hjem',
         items: [
-          {to: '/', label: 'Nyheter', position: 'left'},
+          {to: '/', label: 'Hjem', position: 'left'},
           {to: '/docs/styret', label: 'Styret', position: 'left'},
           {to: '/docs/vedtekter', label: 'Vedtekter', position: 'left'},
         ],
