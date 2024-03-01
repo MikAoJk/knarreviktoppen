@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Nettside for knarreviktoppen velforening","permalink":"/long-blog-post","unlisted":false}]}')}}]);
