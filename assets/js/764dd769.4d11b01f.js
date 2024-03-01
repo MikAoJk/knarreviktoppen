@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[550],{8771:e=>{e.exports=JSON.parse('{"label":"nyhet","permalink":"/knarreviktoppen/tags/nyhet","allTagsPath":"/knarreviktoppen/tags","count":1,"unlisted":false}')}}]);
