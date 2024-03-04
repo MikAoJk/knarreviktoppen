@@ -54,7 +54,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Hjem',
         items: [
           {to: '/', label: 'Hjem', position: 'left'},
           {to: '/docs/styret', label: 'Styret', position: 'left'},
