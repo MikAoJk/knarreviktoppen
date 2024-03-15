@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[410],{1646:e=>{e.exports=JSON.parse('{"label":"notater","permalink":"/tags/notater","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);
