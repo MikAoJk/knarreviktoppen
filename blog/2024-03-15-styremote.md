@@ -1,5 +1,5 @@
 ---
-slug: styremote-14-mars
+slug: styremote-14-mars-2024
 title: Styremøte 14 mars notater
 authors: joakim
 tags: [styremøte, notater]
