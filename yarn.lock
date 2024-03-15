@@ -2944,7 +2944,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/plugin-sitemap@npm:3.1.1":
+"@docusaurus/plugin-sitemap@npm:3.1.1, @docusaurus/plugin-sitemap@npm:^3.1.1":
   version: 3.1.1
   resolution: "@docusaurus/plugin-sitemap@npm:3.1.1"
   dependencies:
@@ -8133,6 +8133,7 @@ __metadata:
   dependencies:
     "@docusaurus/core": "npm:^3.1.1"
     "@docusaurus/module-type-aliases": "npm:3.1.1"
+    "@docusaurus/plugin-sitemap": "npm:^3.1.1"
     "@docusaurus/preset-classic": "npm:^3.1.1"
     "@docusaurus/types": "npm:3.1.1"
     "@mdx-js/react": "npm:^3.0.0"

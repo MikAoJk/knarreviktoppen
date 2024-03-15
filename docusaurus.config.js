@@ -53,6 +53,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        { name: 'keywords', content: 'knarreviktoppen, velforening'},
+      ],
       navbar: {
         items: [
           {to: '/', label: 'Hjem', position: 'left'},

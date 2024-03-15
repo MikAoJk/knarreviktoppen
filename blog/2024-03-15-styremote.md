@@ -1,5 +1,5 @@
 ---
-slug: styremote-14-mars-2024
+slug: styremote-notater-14-mars-2024
 title: Styremøte 14 mars notater
 authors: joakim
 tags: [styremøte, notater]
@@ -9,11 +9,11 @@ Styremøte knarreviktoppen velforening den 14 mars notater
 
 <!--truncate-->
 # Styremøte knarreviktoppen velforening
-Dato: 14.03.2024
-Tilstede: Mariann Jacobsen, Joakim Taule Kartveit, Yaneth Velasquez Cardona
-Sted: Digitalt via Teams
+ - Dato: 14.03.2024
+ - Tilstede: Mariann Jacobsen, Joakim Taule Kartveit, Yaneth Velasquez Cardona
+ - Sted: Digitalt via Teams
 
-## Saker fra forrige møte:
+## Saker fra forrige møte
 
 * Sak 1:
 Felling av trær ved parkeringsplass ved Knarreviktoppen 35.
@@ -40,7 +40,7 @@ Joakim lager ein skriv
 
 
 
-## Saker dette møtet:
+## Saker dette møtet
 
 * Sak 1: 
 jobbe med utkast til forslag disponering parkering ved garasjerekker
