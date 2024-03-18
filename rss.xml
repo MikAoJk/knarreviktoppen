@@ -4,10 +4,25 @@
         <title>Knarreviktoppen velforening Blog</title>
         <link>https://knarreviktoppen.no/</link>
         <description>Knarreviktoppen velforening Blog</description>
-        <lastBuildDate>Fri, 15 Mar 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>no</language>
+        <item>
+            <title><![CDATA[Kontigent 2024]]></title>
+            <link>https://knarreviktoppen.no/kontigent-2024</link>
+            <guid>https://knarreviktoppen.no/kontigent-2024</guid>
+            <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Medlemskontingent 2024]]></description>
+            <content:encoded><![CDATA[<p>Medlemskontingent 2024</p>
+<p>Vi har et ønske å oppfordre medlemmene til å betale
+medlemskontingent på 100 kr i 2024 til Knarreviktoppen
+Velforening sin konto 7325 06 08613.</p>
+<p>Pengene skal brukes til forskjellige formål, bl.a. dugnad, sosiale samlinger, nettside, forefallende vedlikehold av lekeplasser, bed osv. Vi ønsker å arrangere et sosialt treff for at
+beboerne i Knarreviktoppen blir bedre kjent med hverandre og kan snakke om hvordan vi
+ønsker å ha det sammen i nabolaget.</p>]]></content:encoded>
+            <category>kontingent</category>
+        </item>
         <item>
             <title><![CDATA[Styremøte 14 mars notater]]></title>
             <link>https://knarreviktoppen.no/styremote-notater-14-mars-2024</link>
