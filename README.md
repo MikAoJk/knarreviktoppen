@@ -34,5 +34,5 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Deployment is currently triggerd with GitHub Actions
-The website is available here: https://knarreviktoppen.no
+Deployment is currently triggerd with GitHub Actions.
+The website is currently available here: https://knarreviktoppen.no
