@@ -1,5 +1,5 @@
 version: 2
-  - package-ecosystem: "yarn"
+  - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "daily"
