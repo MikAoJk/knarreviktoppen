@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[994],{884:e=>{e.exports=JSON.parse('{"label":"styrem\xf8te","permalink":"/tags/styremote","allTagsPath":"/tags","count":2,"unlisted":false}')}}]);
