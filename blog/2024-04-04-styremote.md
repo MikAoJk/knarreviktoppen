@@ -62,7 +62,7 @@ Det jobbes videre med å rekrutere flere
 * Sak 1 
 Registrer i frivillighetsretere
 Følgende dokumenter må ut arbeides:
-vedtekter (Nesten)
+vedtekter (Nesten ferdigstilt)
 stiftelsesdokument som viser at dere er opprettet/stiftet
 årsmøteprotokoll/dokumentasjon som viser valg av styre
 https://www.brreg.no/lag-og-foreninger/registrere-lag-eller-forening/registrering-i-frivillighetsregisteret/
