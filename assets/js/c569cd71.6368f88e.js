@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[328],{4513:a=>{a.exports=JSON.parse('{"label":"dugnad","permalink":"/tags/dugnad","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);
