@@ -7,3 +7,6 @@ her kommer vedtektene
 <!-- comment in after vedteker updated
 [Vedtekter](vedtekter-knarreviktoppen-velforening.docx)
 -->
+
+# Kartutsnitt av grensene til velforeningen
+[Kartutsnitt](Kartutsnitt-knarreviktoppen-velforening.png)
