@@ -8,6 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Knarreviktoppen velforening',
   favicon: 'img/favicon.ico',
+  staticDirectories: ['public', 'static'],
 
   // Set the production url of your site here
   url: 'https://knarreviktoppen.no/',
