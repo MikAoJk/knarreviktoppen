@@ -9,4 +9,4 @@ her kommer vedtektene
 -->
 
 # Kartutsnitt av grensene til velforeningen
-<img src="/img/kartutsnitt-knarreviktoppen-velforening.png" /> 
+<img src="static/img/kartutsnitt-knarreviktoppen-velforening.png" /> 
