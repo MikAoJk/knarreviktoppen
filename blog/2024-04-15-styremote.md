@@ -16,6 +16,7 @@ Styremøte knarreviktoppen velforening den 15 april notater
 ## Saker fra forrige møte
 
 * Sak 1: Felling av trær ved parkeringsplass ved Knarreviktoppen 35.
+
   Styret foreslår følgende:
   Innmelder må utarbeide forslag på hvordan området skal se ut, etter at trærne er felt
   Styret vil vurdere saken fortløpende basert på ny/oppdatert informasjon i saken
@@ -23,11 +24,12 @@ Styremøte knarreviktoppen velforening den 15 april notater
 ## Saker dette møtet:
 
 * Sak 1: Håndere tilbakemeldinger ang disponering parkering ved felles garasjerekker
-  Styret har sett at det er kommet noen tilbakemeldinger ang disponering av parkering ved felles garasjerekker.
-  Ein rask befaring så fant styret ut følgende opplysninger:
-  Garasjerekke ved Knarreviktoppen 2
-  10 parkeringsplasser
-  16 garasjer
+
+Styret har sett at det er kommet noen tilbakemeldinger ang disponering av parkering ved felles garasjerekker.
+Ein rask befaring så fant styret ut følgende opplysninger:
+Garasjerekke ved Knarreviktoppen 2
+10 parkeringsplasser
+16 garasjer
 
 Garasjerekke ved Knarreviktoppen 17
 7/8 parkeringsplasser
