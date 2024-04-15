@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[3769],{7816:e=>{e.exports=JSON.parse('{"label":"kontingent","permalink":"/tags/kontingent","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);

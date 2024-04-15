@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[424],{2064:a=>{a.exports=JSON.parse('{"label":"parkingplass","permalink":"/tags/parkingplass","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);
