@@ -38,12 +38,11 @@ Saker som medlemmene ønsker behandlet på årsmøtet, må være styret i hende 
 Årsmøtet ledes av vellets leder eller en møteleder valgt av årsmøtet.
 Årsmøtet skal behandle følgende saker:
 1.	Godkjenning av innkalling og dagsorden
-2.	Valg av møteleder, 2 til å undertegne protokollen, 1 referent
+2.	Konstituering av møteleder, 2 til å undertegne protokollen, 1 referent
 3.	Styrets beretning
 4.	Årsregnskap
-5.	Budsjett for kommende år – herunder fastsettelse av kontingent og planer for kommende år/styrets handlingsprogram
-6.	Innkomne forslag
-7.	Valg av
+5.	Innkomne forslag
+6.	Valg av
 a.	Leder
 b.	Styremedlemmer
 
