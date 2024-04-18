@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://knarreviktoppen.no/</id>
     <title>Knarreviktoppen velforening Blog</title>
-    <updated>2024-04-15T00:00:00.000Z</updated>
+    <updated>2024-04-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://knarreviktoppen.no/"/>
     <subtitle>Knarreviktoppen velforening Blog</subtitle>
     <icon>https://knarreviktoppen.no/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Takk for dugnaden]]></title>
+        <id>https://knarreviktoppen.no/takk-dugnad-17-april-2024</id>
+        <link href="https://knarreviktoppen.no/takk-dugnad-17-april-2024"/>
+        <updated>2024-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tusen takk til alle som deltok på dugnaden igår]]></summary>
+        <content type="html"><![CDATA[<p>Tusen takk til alle som deltok på dugnaden igår</p>
+<p>Arbeidet gikk unna med liv og lyst.
+Dette resulterte i eit skikkelig løft for gata vår.
+Vi skulle gjerne fått tak i noen planter/stauder til bedet ved Knarreviktoppen 2,
+om noen har noen planter i egen hage som de kan dele,
+er det bare å kontakte oss i styret: <a href="https://knarreviktoppen.no/docs/styret" target="_blank" rel="noopener noreferrer">https://knarreviktoppen.no/docs/styret</a></p>
+<p>Noen bilder av hvordan resultet ble:</p>
+<img src="https://knarreviktoppen.no/img/20240418_081812.jpg">
+<img src="https://knarreviktoppen.no/img/20240418_081827.jpgg">
+<img src="https://knarreviktoppen.no/img/20240418_081909.jpg">
+<img src="https://knarreviktoppen.no/img/20240418_082139.jpg">
+<img src="https://knarreviktoppen.no/img/20240418_082234.jpg">
+<img src="https://knarreviktoppen.no/img/20240418_082256.jpg">]]></content>
+        <author>
+            <name>Joakim Taule Kartveit</name>
+        </author>
+        <category label="dugnad" term="dugnad"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Styremøte 15 april notater]]></title>
         <id>https://knarreviktoppen.no/styremote-notater-15-april-2024</id>
