@@ -16,7 +16,7 @@ er det bare å kontakte oss i styret: https://knarreviktoppen.no/docs/styret
 
 Noen bilder av hvordan resultet ble:
 <img src="/img/20240418_081812.jpg" /> 
-<img src="/img/20240418_081827.jpgg" /> 
+<img src="/img/20240418_081827.jpg" /> 
 <img src="/img/20240418_081909.jpg" /> 
 <img src="/img/20240418_082139.jpg" /> 
 <img src="/img/20240418_082234.jpg" /> 
