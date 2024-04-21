@@ -59,7 +59,7 @@ Styret konstituerer seg selv.
 Styret forestår den løpende drift og ledelse av vellet på grunnlag av vellets vedtekter og beslutninger fattet av årsmøtet. 
 Styret er beslutningsdyktig når leder, samt minst 2 av de øvrige styremedlemmer er til stede.  Alle avgjørelser treffes med simpelt flertall.  Ved stemmelikhet er leders stemme avgjørende.
 Leder innkaller til styremøte. Styret kan også innkalles av tre styremedlemmer i fellesskap.  Alle styrets medlemmer skal i tilfelle være varslet om dette.  Saksdokumenter skal så langt det er mulig være utsendt på forhånd. Styret fører protokoll over sine forhandlinger.
-Vellet forpliktes av leder eller ved dennes forfall av nestleder sammen med et av de øvrige medlemmer av styret.  Alle utbetalinger skal være anvist av leder eller ved dennes forfall av styremedlemer sammen med et av de øvrige medlemmer av styret.
+Vellet forpliktes av leder eller ved dennes forfall av 2 styremedlemmer. Alle utbetalinger skal være anvist av leder eller ved dennes forfall av styremedlemer sammen med et av de øvrige medlemmer av styret.
 Styret kan ikke oppta lån eller inngå avtaler med større økonomisk forpliktelse for vellet uten etter vedtak på årsmøtet.
 Styret oppnevner dessuten de utvalg eller komiteer som det er behov for.  Leder i slike komiteer bør være medlem av styret.  Unntatt herfra er valgkomiteen.
 
