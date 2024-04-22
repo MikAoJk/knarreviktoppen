@@ -18,8 +18,8 @@ Vellet skal arbeide for et godt forhold til andre foreninger og organisasjoner i
 
 
 ## 2.	Velområdets avgrensning
-Grensene er avmerket på vedlagte kartutsnitt.	 
-[Kartutsnitt](#Kartutsnitt-av-grensene-til-velforeningen)
+Grensene er avmerket på vedlagte 
+[Kartutsnitt](#kartutsnitt-av-grensene-til-velforeningen)
 	
 ## 3.	Juridisk person
 Velforeningen er en selveiende og frittstående juridisk person med upersonlig og begrenset ansvar for gjeld.
