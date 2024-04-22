@@ -3,10 +3,11 @@ sidebar_position: 2
 ---
 
 # Vedtekter
-her midlertidige vedtekter
+Her midlertidige vedtekter frem til dei offsielt er godkjent
 
 Foreningens navn Knarreviktoppen velforening.
-Stiftet 20 mai, 2024.
+Stiftet xx.xx.xxxx.
+
 ## 1.	Formål
 Knarreviktoppen velforening vel er en partipolitisk nøytral forening som har til formål er å ivareta medlemmenes og velområdets felles interesser.  
 Velforeningen skal i sitt arbeid bidra til en balansert utvikling ved å arbeide for gode oppvekst vilkår og bomiljøer og bidra til at det tas natur- og miljøhensyn i utviklingen av området.
@@ -18,6 +19,7 @@ Vellet skal arbeide for et godt forhold til andre foreninger og organisasjoner i
 
 ## 2.	Velområdets avgrensning
 Grensene er avmerket på vedlagte kartutsnitt.	 
+[Kartutsnitt](#Kartutsnitt-av-grensene-til-velforeningen)
 	
 ## 3.	Juridisk person
 Velforeningen er en selveiende og frittstående juridisk person med upersonlig og begrenset ansvar for gjeld.
@@ -54,7 +56,7 @@ Ekstraordinært årsmøte holdes når styret eller minst 10% av medlemmene skrif
 ## 8.	Styret
 Styret skal bestå av
 -	Leder
--	x styremedlemmer 
+-	Styremedlemmer 
 Styret konstituerer seg selv.
 Styret forestår den løpende drift og ledelse av vellet på grunnlag av vellets vedtekter og beslutninger fattet av årsmøtet. 
 Styret er beslutningsdyktig når leder, samt minst 2 av de øvrige styremedlemmer er til stede.  Alle avgjørelser treffes med simpelt flertall.  Ved stemmelikhet er leders stemme avgjørende.
@@ -80,10 +82,9 @@ Ingen medlemmer har krav på foreningens midler eller andel av disse
 Dersom intet bestemmes på nevnte årsmøte overlates midlene og eiendelene til nn kommune som kan disponere disse til formål til beste for vedkommende velområde.
 Vellets arkiver skal overlates kommunens bibliotek for oppbevaring.
 
-## 11	Ikrafttreden
+## 11.	Ikrafttreden
 Disse vedtekter er fastsatt på årsmøtet den xx.xx.xxxx, 
 sist revidert på årsmøtet xx.xx.xxxx og trer i kraft fra samme dato. 
-
 
 
 # Kartutsnitt av grensene til velforeningen
