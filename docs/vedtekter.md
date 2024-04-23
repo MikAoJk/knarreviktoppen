@@ -65,22 +65,22 @@ Styret kan ikke oppta lån eller inngå avtaler med større økonomisk forplikte
 Styret oppnevner dessuten de utvalg eller komiteer som det er behov for.  Leder i slike komiteer bør være medlem av styret.  Unntatt herfra er valgkomiteen.
 
 
-## 8.	Samarbeid
+## 9.	Samarbeid
 Vellet bør arbeide for et godt forhold til andre foreninger og organisasjoner i distriktet og bør ha et nært samarbeide med disse.  Om nødvendig koordinerer vellet slik virksomhet.
 Vellet må opprettholde en jevnlig kontakt med kommunale organer og delta på de orienterings- og informasjonsmøter som blir holdt for å bli kjent med de planer som foreligger for området på kort og på lang sikt.
 Vellet bør stå i nær kontakt med nabovellene og samarbeide med disse om saker av felles interesse.  
 
-## 9.	Vedtektsendringer
+## 10.	Vedtektsendringer
 Vedtektsendringer kan bare vedtas av årsmøtet.  Forslagene må være innkommet til styret innen 1 måneder for årsmøtet og kunngjøres sammen med innkalling til dette.
 Vedtektsendringer kan bare avgjøres med 2/3 flertall.  Er årsmøtet ikke beslutningsdyktig etter denne bestemmelse, skal styret kalle inn til ekstraordinært årsmøte med 7 dagers varsel.  Dette årsmøtet er beslutningsdyktig uansett antall fremmøtte.
 
-## 10.	Oppløsning
+## 11.	Oppløsning
 Forslag om oppløsning av vellet må behandles på 2 påfølgende ordinære årsmøter og krever minst 2/3 flertall.
 Disponering av vellets midler og eiendeler bestemmes med simpelt flertall på det andre årsmøtet og skal anvendes til tiltak til beste for velområdet.
 Ingen medlemmer har krav på foreningens midler eller andel av disse 
 Dersom intet bestemmes på nevnte årsmøte overlates midlene og eiendelene til nn kommune som kan disponere disse til formål til beste for vedkommende velområde.
 Vellets arkiver skal overlates kommunens bibliotek for oppbevaring.
 
-## 11.	Ikrafttreden
+## 12.	Ikrafttreden
 Disse vedtekter er fastsatt på årsmøtet den xx.xx.xxxx, 
 sist revidert på årsmøtet xx.xx.xxxx og trer i kraft fra samme dato. 
