@@ -18,8 +18,8 @@ Vellet skal arbeide for et godt forhold til andre foreninger og organisasjoner i
 
 
 ## 2.	Velområdets avgrensning
-Grensene er avmerket på vedlagte 
-[Kartutsnitt](#kartutsnitt-av-grensene-til-velforeningen)
+Grensene er avmerket på kartutsnitt
+<img src="/img/kartutsnitt-knarreviktoppen-velforening.png" />
 	
 ## 3.	Juridisk person
 Velforeningen er en selveiende og frittstående juridisk person med upersonlig og begrenset ansvar for gjeld.
@@ -85,7 +85,3 @@ Vellets arkiver skal overlates kommunens bibliotek for oppbevaring.
 ## 11.	Ikrafttreden
 Disse vedtekter er fastsatt på årsmøtet den xx.xx.xxxx, 
 sist revidert på årsmøtet xx.xx.xxxx og trer i kraft fra samme dato. 
-
-
-# Kartutsnitt av grensene til velforeningen
-<img src="/img/kartutsnitt-knarreviktoppen-velforening.png" /> 
