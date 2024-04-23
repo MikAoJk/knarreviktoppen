@@ -55,7 +55,8 @@ Ekstraordinært årsmøte holdes når styret eller minst 10% av medlemmene skrif
 ## 8.	Styret
 Styret skal bestå av
 -	Leder
--	Styremedlemmer 
+-	Styremedlemmer
+
 Styret konstituerer seg selv.
 Styret forestår den løpende drift og ledelse av vellet på grunnlag av vellets vedtekter og beslutninger fattet av årsmøtet. 
 Styret er beslutningsdyktig når leder, samt minst 2 av de øvrige styremedlemmer er til stede.  Alle avgjørelser treffes med simpelt flertall.  Ved stemmelikhet er leders stemme avgjørende.
