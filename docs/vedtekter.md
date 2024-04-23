@@ -34,7 +34,7 @@ Kontaktinformasjonen oppbevares på en sikker måte og blir værende i foreninge
 ## 5.	Regnskaper og regnskapsår
 Vellets regnskapsår skal følge kalenderåret.
 
-## 6	Årsmøter
+## 6.	Årsmøter
 Vellets høyeste myndighet er årsmøtet.  Ordinært årsmøte skal holdes hvert år. Innkalling til årsmøtet sendes alle medlemmer senest 7 dager før møtet sammen med dagsorden, styrets beretning, samt innkomne forslag.  
 Saker som medlemmene ønsker behandlet på årsmøtet, må være styret i hende senest 4 uker før årsmøtet.
 Årsmøtet ledes av vellets leder eller en møteleder valgt av årsmøtet.
