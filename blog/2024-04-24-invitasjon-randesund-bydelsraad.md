@@ -9,4 +9,4 @@ Invitasjon til randesund bydelsråd årsmøte 2024
 
 <!--truncate-->
 
-<img src="/img/20240418_082139.jpg" /> 
+<img src="/img/20240424_213544.jpg" /> 
