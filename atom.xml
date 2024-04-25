@@ -18,7 +18,8 @@
         <author>
             <name>Joakim Taule Kartveit</name>
         </author>
-        <category label="dugnad" term="dugnad"/>
+        <category label="invitasjon" term="invitasjon"/>
+        <category label="bydelsraad" term="bydelsraad"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Takk for dugnaden]]></title>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[3053],{5416:a=>{a.exports=JSON.parse('{"label":"bydelsraad","permalink":"/tags/bydelsraad","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);

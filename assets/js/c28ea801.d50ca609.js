@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[1226],{8071:e=>{e.exports=JSON.parse('{"permalink":"/tags/dugnad","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
