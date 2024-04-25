@@ -2,7 +2,7 @@
 slug: invitasjon-randesund-bydelsraad-2024
 title: Invitasjon til randesund bydelsråd årsmøte 2024
 authors: joakim
-tags: [dugnad]
+tags: [invitasjon, bydelsraad]
 ---
 
 Invitasjon til randesund bydelsråd årsmøte 2024
