@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 20
           cache: yarn
-      - uses: actions/cache@v3
+      - uses: actions/cache@v4
         id: next-cache
         with:
           path: .next/cache
