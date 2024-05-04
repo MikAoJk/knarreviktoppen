@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[6701],{3522:a=>{a.exports=JSON.parse('{"label":"invitasjon","permalink":"/tags/invitasjon","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);
