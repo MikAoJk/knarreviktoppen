@@ -5822,6 +5822,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"clsx@npm:^2.1.1":
+  version: 2.1.1
+  resolution: "clsx@npm:2.1.1"
+  checksum: cdfb57fa6c7649bbff98d9028c2f0de2f91c86f551179541cf784b1cfdc1562dcb951955f46d54d930a3879931a980e32a46b598acaea274728dbe068deca919
+  languageName: node
+  linkType: hard
+
 "collapse-white-space@npm:^2.0.0":
   version: 2.1.0
   resolution: "collapse-white-space@npm:2.1.0"
@@ -8748,7 +8755,7 @@ __metadata:
     "@docusaurus/preset-classic": "npm:^3.3.2"
     "@docusaurus/types": "npm:3.3.2"
     "@mdx-js/react": "npm:^3.0.1"
-    clsx: "npm:^2.0.0"
+    clsx: "npm:^2.1.1"
     prism-react-renderer: "npm:^1.3.5"
     react: "npm:^18.0.0"
     react-dom: "npm:^18.0.0"
