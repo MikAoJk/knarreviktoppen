@@ -3,10 +3,8 @@ sidebar_position: 2
 ---
 
 # Vedtekter
-Her midlertidige vedtekter frem til dei offsielt er godkjent
-
 Foreningens navn Knarreviktoppen velforening.
-Stiftet xx.xx.xxxx.
+Stiftet 19.08.2024.
 
 ## 1.	Formål
 Knarreviktoppen velforening vel er en partipolitisk nøytral forening som har til formål er å ivareta medlemmenes og velområdets felles interesser.  
@@ -83,5 +81,5 @@ Dersom intet bestemmes på nevnte årsmøte overlates midlene og eiendelene til 
 Vellets arkiver skal overlates kommunens bibliotek for oppbevaring.
 
 ## 12.	Ikrafttreden
-Disse vedtekter er fastsatt på årsmøtet den xx.xx.xxxx, 
-sist revidert på årsmøtet xx.xx.xxxx og trer i kraft fra samme dato. 
+Disse vedtekter er fastsatt på årsmøtet den 19.08.2024, 
+sist revidert på årsmøtet 19.08.2024 og trer i kraft fra samme dato. 
