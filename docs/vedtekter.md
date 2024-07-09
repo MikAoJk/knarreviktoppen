@@ -23,10 +23,10 @@ Grensene er avmerket på kartutsnitt
 Velforeningen er en selveiende og frittstående juridisk person med upersonlig og begrenset ansvar for gjeld.
 
 ## 4.	Medlemskap og stemmerett
-Alle beboere innen velområdet er medlemmer av vellet. Medlemskapet omfatter husstanden.
-Obligatorisk medlemskap gjennom skjøte eller leiekontrakt kan finne sted.
+Alle beboere innen velområdet kan være medlemmer av vellet. Medlemskapet omfatter husstanden.
+Valgfritt medlemskap gjennom betaling av årskontinget.
 På årsmøter har alle tilstedeværende medlemmer stemmerett. Det kan ikke stemmes ved fullmakt.
-Medlemmer er forpliktet til å betale den kontingent som årsmøtet til enhver tid har fastsatt.  Et medlem som ikke har betalt kontingenten på et år, kan strykes av styret.
+Medlemmer er forpliktet til å betale den kontingent som årsmøtet til enhver tid har fastsatt. Et medlem som ikke har betalt kontingenten på et år, vil strykes av styret.
 
 ## 5.	Regnskaper og regnskapsår
 Vellets regnskapsår skal følge kalenderåret.
