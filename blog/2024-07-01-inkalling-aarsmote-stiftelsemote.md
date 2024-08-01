@@ -23,7 +23,7 @@ innen 22 juli:
 - Fullt navn
 - Adresse
 
-Dette pga stiftelse dokumentet, må skrives under på rett etter stiftelsesmøtet
+Dette pga stiftelse dokumentet, må skrives under, rett etter stiftelsesmøtet
 
 
 # Årsmøte:
@@ -46,7 +46,7 @@ https://knarreviktoppen.no/docs/styret
 
 
 Valg Kandidater til styrelder for Knarreviktoppen velforening
-   * Cathrine Balchen Lindal
+   * 
 
 Valg Kandidater til styremedlemmer for Knarreviktoppen velforening
    * Joakim Taule Kartveit
@@ -62,7 +62,7 @@ Vedtekter ligger ute i sin helhet her:
 https://knarreviktoppen.no/docs/vedtekter
   
 ## Innkomende forslag
-Her vil vi legge til forslag som blir sendt inn
+ingen Innkomende forslag
 
 ## Årsregnskap for 2023
 Det ble dessverre ikkje fremlagt, da konto utskrift ikkje var tilgjengelig for styret
