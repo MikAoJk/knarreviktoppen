@@ -46,7 +46,7 @@ https://knarreviktoppen.no/docs/styret
 
 
 Valg Kandidater til styrelder for Knarreviktoppen velforening
-   * 
+   * tbd
 
 Valg Kandidater til styremedlemmer for Knarreviktoppen velforening
    * Joakim Taule Kartveit
