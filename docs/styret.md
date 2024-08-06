@@ -7,9 +7,8 @@ Styret består pr dags dato av følgende medlemmer
 
 | Tittel      | Navn                      | Epost                       |
 |-------------|---------------------------|-----------------------------|
-| Styreleder  | Cathrine Blachen Lindal   | cathbalch@hotmail.com       |
+| Styreleder  | Mariann Jacobsen   | mariannjacobsen39@gmail.com       |
 | Styremedlem | Joakim Taule Kartveit     | joakimkartveit@gmail.com    |
-| Styremedlem | Mariann Jacobsen          | mariannjacobsen39@gmail.com |
 | Styremedlem | Yaneth Velasquez  Cardona | yanethcardona@hotmail.com   |
 
 ## Styrets oppgaver
