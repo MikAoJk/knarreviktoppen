@@ -46,11 +46,10 @@ https://knarreviktoppen.no/docs/styret
 
 
 Valg Kandidater til styrelder for Knarreviktoppen velforening
-   * tbd
+   * Mariann Jacobsen
 
 Valg Kandidater til styremedlemmer for Knarreviktoppen velforening
    * Joakim Taule Kartveit
-   * Mariann Jacobsen
    * Yaneth Velasquez Cardona
 
 ## Styrets beretning
