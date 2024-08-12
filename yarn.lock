@@ -3630,6 +3630,26 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@docusaurus/types@npm:3.5.1":
+  version: 3.5.1
+  resolution: "@docusaurus/types@npm:3.5.1"
+  dependencies:
+    "@mdx-js/mdx": "npm:^3.0.0"
+    "@types/history": "npm:^4.7.11"
+    "@types/react": "npm:*"
+    commander: "npm:^5.1.0"
+    joi: "npm:^17.9.2"
+    react-helmet-async: "npm:^1.3.0"
+    utility-types: "npm:^3.10.0"
+    webpack: "npm:^5.88.1"
+    webpack-merge: "npm:^5.9.0"
+  peerDependencies:
+    react: ^18.0.0
+    react-dom: ^18.0.0
+  checksum: 066a2b878d8ab5b6e47eef8f029e1063a7ecf4a50a03b4c0231c20bce985ad2ca464c7fe682e8f58518373825dab2e46559a650f943400e4c1be813076515757
+  languageName: node
+  linkType: hard
+
 "@docusaurus/utils-common@npm:3.4.0":
   version: 3.4.0
   resolution: "@docusaurus/utils-common@npm:3.4.0"
@@ -8716,7 +8736,7 @@ __metadata:
     "@docusaurus/module-type-aliases": "npm:3.4.0"
     "@docusaurus/plugin-sitemap": "npm:^3.4.0"
     "@docusaurus/preset-classic": "npm:^3.4.0"
-    "@docusaurus/types": "npm:3.4.0"
+    "@docusaurus/types": "npm:3.5.1"
     "@mdx-js/react": "npm:^3.0.1"
     clsx: "npm:^2.1.1"
     prism-react-renderer: "npm:^1.3.5"
