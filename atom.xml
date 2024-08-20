@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://knarreviktoppen.no/</id>
     <title>Knarreviktoppen velforening Blog</title>
-    <updated>2024-07-01T00:00:00.000Z</updated>
+    <updated>2024-08-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://knarreviktoppen.no/"/>
     <subtitle>Knarreviktoppen velforening Blog</subtitle>
     <icon>https://knarreviktoppen.no/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Takk årsmøte Knarreviktoppen velforening]]></title>
+        <id>https://knarreviktoppen.no/takk-aarsmote-19-august-2024</id>
+        <link href="https://knarreviktoppen.no/takk-aarsmote-19-august-2024"/>
+        <updated>2024-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Takk for eit godt gjennomført årsmøte.]]></summary>
+        <content type="html"><![CDATA[<p>Takk for eit godt gjennomført årsmøte.</p>
+<p>Vi telte 18 personer, på møtet.
+Etter det offisielle programmet, ble det fritt ord.
+Vi gleder oss over, at det er så mye engasjement om å skape eit trivelig og trygt nabolag.
+Styret tok litt notater, om noen saker, som dukket opp.
+Men for å sikre best mulige og korrekt forståelse av sakene, må disse sendes inn skriftlig til styret,
+se <a href="https://knarreviktoppen.no/docs/styret" target="_blank" rel="noopener noreferrer">https://knarreviktoppen.no/docs/styret</a>, for hvordan man kan kontakte styret.</p>]]></content>
+        <author>
+            <name>Joakim Taule Kartveit</name>
+        </author>
+        <category label="årsmøte" term="årsmøte"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inkalling årsmøte/stiftelsemøte Knarreviktoppen velforening]]></title>
         <id>https://knarreviktoppen.no/inkalling-aarsmote-stiftelsemote-1-juli-2024</id>
