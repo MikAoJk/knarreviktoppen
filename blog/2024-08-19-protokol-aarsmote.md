@@ -41,8 +41,8 @@ styreleder ble: Mariann Jacobsen
 styremedlemmer ble: Yaneth Velasquez Cardona, Joakim Taule Kartveit.
 Ble godkjennt av medlemmene
 
-6.Årsregnskap
-            Det ble dessverre ikkje fremlagt, da, konto utskrift ikkje var tilgjengelig for styret. Ble godkjennt av medlemmene, styret skal prøve å ordet dette til neste årsmøte
+6. Årsregnskap
+Det ble dessverre ikkje fremlagt, da, konto utskrift ikkje var tilgjengelig for styret. Ble godkjennt av medlemmene, styret skal prøve å ordet dette til neste årsmøte
 
 7. Godkjenning av vedtekter:
 Ble godkjennt av medlemmene
