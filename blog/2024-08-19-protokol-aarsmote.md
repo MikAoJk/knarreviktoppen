@@ -11,17 +11,17 @@ Her ligger protokollen fra årsmøte 2024
 <!--truncate-->
 Årsmøteprotokollen 2024
 
-Navn: Knarreviktoppen velforening 
-Dato: 19.08.2024
-Sted: Knarreviktoppen 19, Kristiansand
+- Navn: Knarreviktoppen velforening 
+- Dato: 19.08.2024
+- Sted: Knarreviktoppen 19, Kristiansand
 
 Antall fremmøtte: 18
 
 Saker:
-Godkjenning av innkalling og dagsorden:
+1. Godkjenning av innkalling og dagsorden:
 Ble godkjent av alle fremmøtte
 
-Konstituering av møteleder, 2 til å undertegne protokollen, 1 referent:
+2. Konstituering av møteleder, 2 til å undertegne protokollen, 1 referent:
 Møteleder: Joakim Taule Kartveit,
 Referent: Joakim Taule Kartveit
 Undertegne Protokollen:
@@ -29,20 +29,20 @@ Gro Lohne,
 Yaneth Velasquez Cardona 
 Ble godkjent av medlemmene
 
-Styrets beretning:
+3. Styrets beretning:
 Ble godkjent av medlemmene.
 
-Innkomne forslag:
+4. Innkomne forslag:
 ingen inkommende forslag.
 Ble godkjennt av medlemmene 
 
-Valg av a. Leder b. Styremedlemmer:
+5. Valg av a. Leder b. Styremedlemmer:
 styreleder ble: Mariann Jacobsen
 styremedlemmer ble: Yaneth Velasquez Cardona, Joakim Taule Kartveit.
 Ble godkjennt av medlemmene
 
-Årsregnskap
+6.Årsregnskap
             Det ble dessverre ikkje fremlagt, da, konto utskrift ikkje var tilgjengelig for styret. Ble godkjennt av medlemmene, styret skal prøve å ordet dette til neste årsmøte
 
-Godkjenning av vedtekter:
+7. Godkjenning av vedtekter:
 Ble godkjennt av medlemmene
