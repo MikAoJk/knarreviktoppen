@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[184],{8211:a=>{a.exports=JSON.parse('{"tag":{"label":"orgnr","permalink":"/tags/orgnr","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/orgnr","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

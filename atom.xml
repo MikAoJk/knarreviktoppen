@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://knarreviktoppen.no/</id>
     <title>Knarreviktoppen velforening Blog</title>
-    <updated>2024-08-19T00:00:00.000Z</updated>
+    <updated>2024-09-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://knarreviktoppen.no/"/>
     <subtitle>Knarreviktoppen velforening Blog</subtitle>
     <icon>https://knarreviktoppen.no/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Organisasjons nummer for Knarreviktoppen velforening]]></title>
+        <id>https://knarreviktoppen.no/organiasjonsnummer-6-september-2024</id>
+        <link href="https://knarreviktoppen.no/organiasjonsnummer-6-september-2024"/>
+        <updated>2024-09-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Da har vi endeligt fått oss eit organisasjons nummer: 934 042 549]]></summary>
+        <content type="html"><![CDATA[<p>Da har vi endeligt fått oss eit organisasjons nummer: 934 042 549</p>]]></content>
+        <author>
+            <name>Joakim Taule Kartveit</name>
+        </author>
+        <category label="orgnr" term="orgnr"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Årsmøte protokol Knarreviktoppen velforening]]></title>
         <id>https://knarreviktoppen.no/aarsmote-19-august-2024</id>
