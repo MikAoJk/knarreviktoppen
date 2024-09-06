@@ -66,7 +66,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Knarreviktoppen velforening, Org. nr 934 042 549 `,
+        copyright: `Copyright © ${new Date().getFullYear()} Knarreviktoppen velforening, Org.nr. 934 042 549 `,
       },
       colorMode: {
         defaultMode: 'dark',
