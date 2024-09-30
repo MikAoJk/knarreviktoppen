@@ -2,27 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://knarreviktoppen.no/</id>
     <title>Knarreviktoppen velforening Blog</title>
-    <updated>2024-09-30T00:00:00.000Z</updated>
+    <updated>2024-09-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://knarreviktoppen.no/"/>
     <subtitle>Knarreviktoppen velforening Blog</subtitle>
     <icon>https://knarreviktoppen.no/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[rydde kvister grener]]></title>
-        <id>https://knarreviktoppen.no/henger-30-september-2024</id>
-        <link href="https://knarreviktoppen.no/henger-30-september-2024"/>
-        <updated>2024-09-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Har du ein henger?]]></summary>
-        <content type="html"><![CDATA[<p>Har du ein henger?</p>
-<p>Vi trenger hjelp til å kjøre vekk kvister og greiner,
-etter at noen trær har blitt hugget ned bak,
-houved lekeplassen ved Knarreviktoppen 17.</p>]]></content>
-        <author>
-            <name>Joakim Taule Kartveit</name>
-        </author>
-        <category label="kontonummer" term="kontonummer"/>
-        <category label="grasrotandelen" term="grasrotandelen"/>
-    </entry>
     <entry>
         <title type="html"><![CDATA[kontonummer for Knarreviktoppen velforening]]></title>
         <id>https://knarreviktoppen.no/kontonummer-17-september-2024</id>
