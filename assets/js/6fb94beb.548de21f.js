@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[3435],{6379:e=>{e.exports=JSON.parse('{"tag":{"label":"rydde","permalink":"/tags/rydde","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/rydde","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
