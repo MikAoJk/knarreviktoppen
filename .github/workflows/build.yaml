@@ -28,7 +28,6 @@ jobs:
       - id: yarn-install
         shell: bash
         run: yarn --immutable
-
       - name: Install dependencies
         run: yarn install --frozen-lockfile
       - name: Build website

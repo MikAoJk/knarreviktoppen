@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Styret
-Styret består pr dags dato av følgende medlemmer
+Styret består av følgende medlemmer
 
 | Tittel      | Navn                      | Epost                       |
 |-------------|---------------------------|-----------------------------|
