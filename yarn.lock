@@ -3688,6 +3688,24 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@docusaurus/module-type-aliases@npm:3.6.1":
+  version: 3.6.1
+  resolution: "@docusaurus/module-type-aliases@npm:3.6.1"
+  dependencies:
+    "@docusaurus/types": "npm:3.6.1"
+    "@types/history": "npm:^4.7.11"
+    "@types/react": "npm:*"
+    "@types/react-router-config": "npm:*"
+    "@types/react-router-dom": "npm:*"
+    react-helmet-async: "npm:*"
+    react-loadable: "npm:@docusaurus/react-loadable@6.0.0"
+  peerDependencies:
+    react: "*"
+    react-dom: "*"
+  checksum: 84a08f384281224a003814be913daaa50f3a132d0ac488720c81b59b67fd66e349abe355a36d6951804576ed950e8b6dfb3e46902b8483d4ac9f60019de28dfc
+  languageName: node
+  linkType: hard
+
 "@docusaurus/plugin-content-blog@npm:3.6.0":
   version: 3.6.0
   resolution: "@docusaurus/plugin-content-blog@npm:3.6.0"
@@ -9313,7 +9331,7 @@ __metadata:
   resolution: "knarreviktoppen@workspace:."
   dependencies:
     "@docusaurus/core": "npm:^3.6.0"
-    "@docusaurus/module-type-aliases": "npm:3.6.0"
+    "@docusaurus/module-type-aliases": "npm:3.6.1"
     "@docusaurus/plugin-sitemap": "npm:^3.6.1"
     "@docusaurus/preset-classic": "npm:^3.6.0"
     "@docusaurus/types": "npm:3.6.0"
