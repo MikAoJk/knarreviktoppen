@@ -3513,6 +3513,24 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@docusaurus/module-type-aliases@npm:3.6.2":
+  version: 3.6.2
+  resolution: "@docusaurus/module-type-aliases@npm:3.6.2"
+  dependencies:
+    "@docusaurus/types": "npm:3.6.2"
+    "@types/history": "npm:^4.7.11"
+    "@types/react": "npm:*"
+    "@types/react-router-config": "npm:*"
+    "@types/react-router-dom": "npm:*"
+    react-helmet-async: "npm:*"
+    react-loadable: "npm:@docusaurus/react-loadable@6.0.0"
+  peerDependencies:
+    react: "*"
+    react-dom: "*"
+  checksum: 19a4bff56932261a2326dfdc19bf8f5b5dc5e8633f08711de88ec512150c6490881ec6f2ac614c5c4220c2f46838c529a4125894ad5edb69f9e771a4fe2a3cd9
+  languageName: node
+  linkType: hard
+
 "@docusaurus/plugin-content-blog@npm:3.6.1":
   version: 3.6.1
   resolution: "@docusaurus/plugin-content-blog@npm:3.6.1"
@@ -3812,6 +3830,26 @@ __metadata:
     react: ^18.0.0
     react-dom: ^18.0.0
   checksum: 2d5e523709ea81b923f0de08ec3b51f76b9dc25b5ae17e78e191e2c532ae21f951a96b6e167ac1659f5de1044d2fdae8c70273e7a596041662804dd7a2ba9247
+  languageName: node
+  linkType: hard
+
+"@docusaurus/types@npm:3.6.2":
+  version: 3.6.2
+  resolution: "@docusaurus/types@npm:3.6.2"
+  dependencies:
+    "@mdx-js/mdx": "npm:^3.0.0"
+    "@types/history": "npm:^4.7.11"
+    "@types/react": "npm:*"
+    commander: "npm:^5.1.0"
+    joi: "npm:^17.9.2"
+    react-helmet-async: "npm:^1.3.0"
+    utility-types: "npm:^3.10.0"
+    webpack: "npm:^5.95.0"
+    webpack-merge: "npm:^5.9.0"
+  peerDependencies:
+    react: ^18.0.0
+    react-dom: ^18.0.0
+  checksum: 8005d6aac3c3d2bd08820ae9f72cd8591a4d3b2c2f9d7f35cdb97d5f2759e608e327e6b27483258a20671e39bda9cfcaa65dc69778f62cb5b6326b50bd2c726b
   languageName: node
   linkType: hard
 
@@ -9035,7 +9073,7 @@ __metadata:
   resolution: "knarreviktoppen@workspace:."
   dependencies:
     "@docusaurus/core": "npm:^3.6.1"
-    "@docusaurus/module-type-aliases": "npm:3.6.1"
+    "@docusaurus/module-type-aliases": "npm:3.6.2"
     "@docusaurus/plugin-sitemap": "npm:^3.6.1"
     "@docusaurus/preset-classic": "npm:^3.6.1"
     "@docusaurus/types": "npm:3.6.1"
