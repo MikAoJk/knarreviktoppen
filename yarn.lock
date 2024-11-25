@@ -3932,7 +3932,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/core@npm:3.6.2, @docusaurus/core@npm:^3.6.2":
+"@docusaurus/core@npm:3.6.2":
   version: 3.6.2
   resolution: "@docusaurus/core@npm:3.6.2"
   dependencies:
@@ -3989,7 +3989,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/core@npm:3.6.3":
+"@docusaurus/core@npm:3.6.3, @docusaurus/core@npm:^3.6.3":
   version: 3.6.3
   resolution: "@docusaurus/core@npm:3.6.3"
   dependencies:
@@ -9816,7 +9816,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "knarreviktoppen@workspace:."
   dependencies:
-    "@docusaurus/core": "npm:^3.6.2"
+    "@docusaurus/core": "npm:^3.6.3"
     "@docusaurus/module-type-aliases": "npm:3.6.3"
     "@docusaurus/plugin-sitemap": "npm:^3.6.2"
     "@docusaurus/preset-classic": "npm:^3.6.3"
