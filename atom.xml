@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://knarreviktoppen.no/</id>
     <title>Knarreviktoppen velforening Blog</title>
-    <updated>2025-04-08T00:00:00.000Z</updated>
+    <updated>2025-04-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://knarreviktoppen.no/"/>
     <subtitle>Knarreviktoppen velforening Blog</subtitle>
     <icon>https://knarreviktoppen.no/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Inspeksjon av lekeplassen]]></title>
+        <id>https://knarreviktoppen.no/lekeplass-inspeksjon-2025</id>
+        <link href="https://knarreviktoppen.no/lekeplass-inspeksjon-2025"/>
+        <updated>2025-04-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Styret vil Informere om at vi har fått ein inspektør fra kommunen til å sjekke hvordan det står til med houved lekeplassen ved Knarreviktoppen 17, i forhold til krav om standarer på lekeplasser. Her er dokumentet basert på inspeksjonen.]]></summary>
+        <content type="html"><![CDATA[<p>Styret vil Informere om at vi har fått ein inspektør fra kommunen til å sjekke hvordan det står til med houved lekeplassen ved Knarreviktoppen 17, i forhold til krav om standarer på lekeplasser. Her er dokumentet basert på inspeksjonen.
+<a href="https://knarreviktoppen.no/knarreviktoppen-sandlek-2024.docx" target="_blank" rel="noopener noreferrer">https://knarreviktoppen.no/knarreviktoppen-sandlek-2024.docx</a>
+Kort oppsummert, er det bare vippe dyret og vippen som ble godkjent, uten feil/mangler.</p>]]></content>
+        <author>
+            <name>Joakim Taule Kartveit</name>
+        </author>
+        <category label="lekeplass" term="lekeplass"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dugnad 2025 15 mai]]></title>
         <id>https://knarreviktoppen.no/dugnad-15-mai-2025</id>
