@@ -4,10 +4,25 @@
         <title>Knarreviktoppen velforening Blog</title>
         <link>https://knarreviktoppen.no/</link>
         <description>Knarreviktoppen velforening Blog</description>
-        <lastBuildDate>Tue, 15 Apr 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>no</language>
+        <item>
+            <title><![CDATA[Takk for dugnaden]]></title>
+            <link>https://knarreviktoppen.no/takk-dugnad-15-mai-2025</link>
+            <guid>https://knarreviktoppen.no/takk-dugnad-15-mai-2025</guid>
+            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tusen takk til alle som deltok på dugnaden igår]]></description>
+            <content:encoded><![CDATA[<p>Tusen takk til alle som deltok på dugnaden igår</p>
+<p>Arbeidet gikk unna med liv og lyst.
+Dette resulterte i eit skikkelig løft for gata vår.
+Dersom det skulle være noe dere lurer på, er det bare å kontakte oss i styret: <a href="https://knarreviktoppen.no/docs/styret" target="_blank" rel="noopener noreferrer">https://knarreviktoppen.no/docs/styret</a></p>
+<p>Noen bilder av hvordan resultet ble:</p>
+<img src="https://knarreviktoppen.no/img/20240418_081812.jpg">
+<img src="https://knarreviktoppen.no/img/20240418_081827.jpg">]]></content:encoded>
+            <category>dugnad</category>
+        </item>
         <item>
             <title><![CDATA[Inspeksjon av lekeplassen]]></title>
             <link>https://knarreviktoppen.no/lekeplass-inspeksjon-2025</link>
