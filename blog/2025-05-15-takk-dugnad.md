@@ -13,5 +13,6 @@ Dette resulterte i eit skikkelig løft for gata vår.
 Dersom det skulle være noe dere lurer på, er det bare å kontakte oss i styret: https://knarreviktoppen.no/docs/styret
 
 Noen bilder av hvordan resultet ble:
-<img src="/img/20240418_081812.jpg" /> 
-<img src="/img/20240418_081827.jpg" />
+<img src="/img/20250516_074609.jpg" /> 
+<img src="/img/20250516_074516.jpg" />
+<img src="/img/20250516_074434.jpg" />
