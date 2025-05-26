@@ -25,4 +25,4 @@ Oppgave 3, vi skal komme tilbake med eit tidspunkt, for når vi tenker å bygge 
 
 Oppgave 4, kan gjøres når det måtte passe, etter oppgave 3
 
-Oppgave 5, kan også gjøres når det måtte passe, så fremt sandkassen er revet.
+Oppgave 5, kan også gjøres når det måtte passe, så fremt sandkassen er demontert.
