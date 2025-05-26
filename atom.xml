@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://knarreviktoppen.no/</id>
     <title>Knarreviktoppen velforening Blog</title>
-    <updated>2025-05-15T00:00:00.000Z</updated>
+    <updated>2025-05-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://knarreviktoppen.no/"/>
     <subtitle>Knarreviktoppen velforening Blog</subtitle>
     <icon>https://knarreviktoppen.no/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ny sandkasse dugnaden]]></title>
+        <id>https://knarreviktoppen.no/ny-sandkasse-dugnad-1-mai-2025</id>
+        <link href="https://knarreviktoppen.no/ny-sandkasse-dugnad-1-mai-2025"/>
+        <updated>2025-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vi skal bygge ein ny sandkasse, samme størrelse som den som står der nå, på hovedlekeplassen ved Knarreviktoppen 17.]]></summary>
+        <content type="html"><![CDATA[<p>Vi skal bygge ein ny sandkasse, samme størrelse som den som står der nå, på hovedlekeplassen ved Knarreviktoppen 17.
+I den forbindelse trenger litt dugnads hjelp til følgende oppgaver:</p>
+<ol>
+<li>Demontere sandkassen</li>
+<li>Fjerne all sand fra sandkassen</li>
+<li>Montere ny sandkasse</li>
+<li>Flytte all sand tilbake i sandkassen.</li>
+<li>Kjøre gammle sandkassen, på søppla</li>
+</ol>
+<p>Oppgave 1, det er fritt frem bare å starte å demontere hele sandkassen.
+Det eneste vi ønsker å beholde, er metall platene,<br>
+<!-- -->som det er 8 stk av. Alt annet går på søppla.</p>
+<p>Oppgave 2, er det også bare å starte med, når man har tid og ønsker.</p>
+<p>Oppgave 3, vi skal komme tilbake med eit tidspunkt, for når vi tenker å bygge den.</p>
+<p>Oppgave 4, kan gjøres når det måtte passe, etter oppgave 3</p>
+<p>Oppgave 5, kan også gjøres når det måtte passe, så fremt sandkassen er revet.</p>]]></content>
+        <author>
+            <name>Joakim Taule Kartveit</name>
+        </author>
+        <category label="dugnad" term="dugnad"/>
+        <category label="sandkasse" term="sandkasse"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Takk for dugnaden]]></title>
         <id>https://knarreviktoppen.no/takk-dugnad-15-mai-2025</id>
