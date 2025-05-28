@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[9647],{1957:(e,r,s)=>{s.r(r),s.d(r,{default:()=>k});s(6540);var n=s(8215),a=s(7918),p=s(811),t=s(2831),u=s(9686),c=s(4848);function k(e){return(0,c.jsx)(a.e3,{className:(0,n.A)(p.G.wrapper.docsPages),children:(0,c.jsx)(u.A,{children:(0,t.v)(e.route.routes)})})}}}]);
