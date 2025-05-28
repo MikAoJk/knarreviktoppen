@@ -4,6 +4,10 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    groups:
+      npm-deps:
+        patterns:
+          - "*"
     ignore:
       - dependency-name: "prism-react-renderer"
         update-types: ["version-update:semver-major"]
