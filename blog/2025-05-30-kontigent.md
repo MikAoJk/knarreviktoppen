@@ -8,7 +8,7 @@ tags: [medlemskontingent]
 Medlemskontingent 2025
 
 <!--truncate-->
-Knarreviktoppen velforening har et ønske å oppfordre medlemmene til å betale
+Knarreviktoppen velforening ønsker at medlemmene betaler inn
 medlemskontingent på 200 kr i 2025 til Knarreviktoppen
 Velforening. 
 kontonummer: 3060 28 83937 eller
