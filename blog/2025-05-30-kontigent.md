@@ -14,7 +14,7 @@ Velforening.
 kontonummer: 3060 28 83937 eller
 via vipps, nummeret vårt er: 963928
 Husk å merke betaling med din adresse,slik: “knarreviktoppen 3”
-<img src="/img/QR-kode_Knarreviktoppenvelforening#963928.png" /> 
+<img src="/img/qr-code.png" /> 
 
 
 Pengene skal brukes til forskjellige formål, bl.a. dugnad, sosiale samlinger, nettside, forefallende vedlikehold av lekeplasser, bed osv. Vi ønsker å arrangere et sosialt treff for at
