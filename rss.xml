@@ -4,10 +4,29 @@
         <title>Knarreviktoppen velforening Blog</title>
         <link>https://knarreviktoppen.no/</link>
         <description>Knarreviktoppen velforening Blog</description>
-        <lastBuildDate>Tue, 27 May 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>no</language>
+        <item>
+            <title><![CDATA[Medlemskontigent 2025]]></title>
+            <link>https://knarreviktoppen.no/medldmskontigent-2025</link>
+            <guid>https://knarreviktoppen.no/medldmskontigent-2025</guid>
+            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Medlemskontingent 2025]]></description>
+            <content:encoded><![CDATA[<p>Medlemskontingent 2025</p>
+<p>Knarreviktoppen velforening ønsker at medlemmene betaler inn
+medlemskontingent på 200 kr i 2025 til Knarreviktoppen
+Velforening.
+kontonummer: 3060 28 83937 eller
+via vipps, nummeret vårt er: 963928
+Husk å merke betaling med din adresse,slik: “knarreviktoppen 3”</p>
+<img src="https://knarreviktoppen.no/img/QR-kode_Knarreviktoppenvelforening#963928.png">
+<p>Pengene skal brukes til forskjellige formål, bl.a. dugnad, sosiale samlinger, nettside, forefallende vedlikehold av lekeplasser, bed osv. Vi ønsker å arrangere et sosialt treff for at
+beboerne i Knarreviktoppen blir bedre kjent med hverandre og kan snakke om hvordan vi
+ønsker å ha det sammen i nabolaget.</p>]]></content:encoded>
+            <category>medlemskontingent</category>
+        </item>
         <item>
             <title><![CDATA[Ny sandkasse dugnad]]></title>
             <link>https://knarreviktoppen.no/ny-sandkasse-dugnad-27-mai-2025</link>
@@ -616,16 +635,6 @@ Yaneth tar ansvar for å lage ein skriv</p>
 </ul>]]></content:encoded>
             <category>styremøte</category>
             <category>notater</category>
-        </item>
-        <item>
-            <title><![CDATA[Nettside for knarreviktoppen velforening]]></title>
-            <link>https://knarreviktoppen.no/new-website</link>
-            <guid>https://knarreviktoppen.no/new-website</guid>
-            <pubDate>Mon, 28 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Da har vi endelig fått på plass ein nettside for knarreviktoppen velforening]]></description>
-            <content:encoded><![CDATA[<p>Da har vi endelig fått på plass ein nettside for knarreviktoppen velforening</p>]]></content:encoded>
-            <category>nyhet</category>
-            <category>nettside</category>
         </item>
     </channel>
 </rss>

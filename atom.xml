@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://knarreviktoppen.no/</id>
     <title>Knarreviktoppen velforening Blog</title>
-    <updated>2025-05-27T00:00:00.000Z</updated>
+    <updated>2025-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://knarreviktoppen.no/"/>
     <subtitle>Knarreviktoppen velforening Blog</subtitle>
     <icon>https://knarreviktoppen.no/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Medlemskontigent 2025]]></title>
+        <id>https://knarreviktoppen.no/medldmskontigent-2025</id>
+        <link href="https://knarreviktoppen.no/medldmskontigent-2025"/>
+        <updated>2025-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Medlemskontingent 2025]]></summary>
+        <content type="html"><![CDATA[<p>Medlemskontingent 2025</p>
+<p>Knarreviktoppen velforening ønsker at medlemmene betaler inn
+medlemskontingent på 200 kr i 2025 til Knarreviktoppen
+Velforening.
+kontonummer: 3060 28 83937 eller
+via vipps, nummeret vårt er: 963928
+Husk å merke betaling med din adresse,slik: “knarreviktoppen 3”</p>
+<img src="https://knarreviktoppen.no/img/QR-kode_Knarreviktoppenvelforening#963928.png">
+<p>Pengene skal brukes til forskjellige formål, bl.a. dugnad, sosiale samlinger, nettside, forefallende vedlikehold av lekeplasser, bed osv. Vi ønsker å arrangere et sosialt treff for at
+beboerne i Knarreviktoppen blir bedre kjent med hverandre og kan snakke om hvordan vi
+ønsker å ha det sammen i nabolaget.</p>]]></content>
+        <author>
+            <name>Joakim Taule Kartveit</name>
+        </author>
+        <category label="medlemskontingent" term="medlemskontingent"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ny sandkasse dugnad]]></title>
         <id>https://knarreviktoppen.no/ny-sandkasse-dugnad-27-mai-2025</id>
@@ -672,18 +694,5 @@ Yaneth tar ansvar for å lage ein skriv</p>
         </author>
         <category label="styremøte" term="styremøte"/>
         <category label="notater" term="notater"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nettside for knarreviktoppen velforening]]></title>
-        <id>https://knarreviktoppen.no/new-website</id>
-        <link href="https://knarreviktoppen.no/new-website"/>
-        <updated>2023-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Da har vi endelig fått på plass ein nettside for knarreviktoppen velforening]]></summary>
-        <content type="html"><![CDATA[<p>Da har vi endelig fått på plass ein nettside for knarreviktoppen velforening</p>]]></content>
-        <author>
-            <name>Joakim Taule Kartveit</name>
-        </author>
-        <category label="nyhet" term="nyhet"/>
-        <category label="nettside" term="nettside"/>
     </entry>
 </feed>
