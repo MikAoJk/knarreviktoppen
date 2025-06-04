@@ -12,7 +12,10 @@ Knarreviktoppen velforening ønsker at medlemmene betaler inn
 medlemskontingent på 200 kr i 2025 til Knarreviktoppen
 Velforening. 
 kontonummer: 3060 28 83937 eller
-via vipps, nummeret vårt er: 963928
+via vipps, nummeret vårt er:  
+<a href="https://qr.vipps.no/28/2/05/031/kquSPNq9p">963928</a>
+
+
 Husk å merke betaling med din adresse,slik: “knarreviktoppen 3”
 <img src="/img/qr-code.png" /> 
 
