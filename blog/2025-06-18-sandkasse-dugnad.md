@@ -9,12 +9,12 @@ Sandkasse dugnad, Fredag 27 juni 2025 KI. 17:00
 
 <!--truncate-->
 Vi har nå følgende oppgaver som gjenstår.
-Kutte opp riktig lengde og vikel på plankene
-Borre hull i plankene, slik at man kan skru metall skruebe i metall platene.
-Legge ut ny duk, og feste den til sandkasse.
+1. Kutte opp riktig lengde og vikel på plankene
+2. Borre hull i plankene, slik at man kan skru metall skruene i metall platene.
+3. Legge ut ny duk, og feste den til sandkassen
 
 
 Litt informasjon om hvorfor man bør bli med på dugnaden om å bygge ny sandkasse.
 En velholdt lekeplass gir mange fordeler blant annet så er en lekeplasse med på å skape møteplasser og styrke fellesskapet i gata.
 Den øker også alle boliger i knarreviktoppen sin verdi. 
-Så med andre og alle vinner på at vi bygger ny sandkasse og jobber videre med å oppgradere,vedlikeholde lekeplassen vår.
+Så med andre ord, alle vinner på at vi bygger ny sandkasse og jobber videre med å oppgradere samt vedlikeholde lekeplassen vår.
