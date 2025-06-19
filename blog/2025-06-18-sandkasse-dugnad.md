@@ -1,5 +1,5 @@
 ---
-slug: sandkasse-dugnad-18-juni-2025
+slug: sandkasse-dugnad-27-juni-2025
 title: Sandkasse dugnad
 authors: joakim
 tags: [dugnad, sandkasse]
