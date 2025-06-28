@@ -1,11 +1,11 @@
 ---
-slug: sandkasse-dugnad-27-juni-2025
+slug: sandkasse-dugnad-3-juli-2025
 title: Sandkasse dugnad
 authors: joakim
 tags: [dugnad, sandkasse]
 ---
 
-Sandkasse dugnad, Fredag 27 juni 2025 KI. 17:00
+Sandkasse dugnad, Torsdag 3 juli 2025 KI. 17:00
 
 <!--truncate-->
 Vi har nå følgende oppgaver som gjenstår.
