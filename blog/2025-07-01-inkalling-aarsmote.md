@@ -1,5 +1,5 @@
 ---
-slug: inkalling-aarsmote-22-august-2025
+slug: inkalling-aarsmote-21-august-2025
 title: Inkalling årsmøte Knarreviktoppen velforening
 authors: joakim
 tags: [årsmøte]
@@ -11,7 +11,7 @@ Du er herved invitert til årsmøte for Knarreviktoppen velforening.
 <!--truncate-->
 - Sted: Knarreviktoppen 17 (med hoved lekeplassen)
 - Klokkeslett: 17:00
-- Dato: 22.08.2025
+- Dato: 21.08.2025
 
 # Årsmøte:
 Det er mulighet for å komme med forslag til styret, disse kan sendes til:
