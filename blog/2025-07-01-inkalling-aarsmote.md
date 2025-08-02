@@ -15,7 +15,7 @@ Du er herved invitert til årsmøte for Knarreviktoppen velforening.
 
 # Årsmøte:
 Det er mulighet for å komme med forslag til styret, disse kan sendes til:
-joakimkartveit@gmail.com innen 22 juli. Vi minner om, det er mulighet til å kontakte styret
+joakimkartveit@gmail.com innen 20 august. Vi minner om, det er mulighet til å kontakte styret
 fortløpende, dersom det er noe saker/spørsmål, for kontaktinformasjon til styret se:
 https://knarreviktoppen.no/docs/styret
 
