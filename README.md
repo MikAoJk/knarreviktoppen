@@ -1,4 +1,4 @@
-# Website
+# Knarreviktoppen Website
 [![Deploy to GitHub Pages](https://github.com/MikAoJk/knarreviktoppen/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/MikAoJk/knarreviktoppen/actions/workflows/deploy.yml)
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
