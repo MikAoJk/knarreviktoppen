@@ -17,4 +17,4 @@ Vi har nå følgende oppgaver som gjenstår.
 Litt informasjon om hvorfor man bør bli med på dugnaden om å bygge ny sandkasse.
 En velholdt lekeplass gir mange fordeler blant annet så er en lekeplasse med på å skape møteplasser og styrke fellesskapet i gata.
 Den øker også alle boliger i knarreviktoppen sin verdi. 
-Så med andre ord, alle vinner på at vi bygger ny sandkasse og jobber videre med å oppgradere samt vedlikeholde lekeplassen vår.
+Alle vinner på at vi bygger ny sandkasse og jobber videre med å oppgradere samt vedlikeholde lekeplassen vår.
