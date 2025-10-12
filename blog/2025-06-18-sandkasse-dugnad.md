@@ -1,17 +1,17 @@
 ---
-slug: sandkasse-dugnad-3-juli-2025
+slug: sandkasse-dugnad-30-oktober-2025
 title: Sandkasse dugnad
 authors: joakim
 tags: [dugnad, sandkasse]
 ---
 
-Sandkasse dugnad, Torsdag 3 juli 2025 KI. 17:00
+Sandkasse dugnad, Torsdag 30 oktober 2025 KI. 17:00
 
 <!--truncate-->
 Vi har nå følgende oppgaver som gjenstår.
-1. Kutte opp riktig lengde og vikel på plankene
-2. Borre hull i plankene, slik at man kan skru metall skruene i metall platene.
-3. Legge ut ny duk, og feste den til sandkassen
+1. Tømme sandkassen for sand
+2. Legge ut ny duk, og feste den til sandkassen
+3. Kutte opp riktig lengde og vinkel på plankene, som skal utgjøre toppen(sitte delen)
 
 
 Litt informasjon om hvorfor man bør bli med på dugnaden om å bygge ny sandkasse.
