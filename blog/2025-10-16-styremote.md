@@ -16,7 +16,7 @@ Styremøte knarreviktoppen velforening den 16 oktober notater
 ## Saker dette møtet:
 
 * Sak 1:Sandkasse dugnad
-Vi inviterer til dugnad den 30 oktober kl 16:00
+  * Vi inviterer til dugnad den 30 oktober kl 16:00
 
 * Sak 2:Søke om midler lekeplassen i Januar
-Vi kommer til å søke om midler til lekeplassen i januar
+  * Vi kommer til å søke om midler til lekeplassen i januar
