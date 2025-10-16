@@ -5,7 +5,7 @@ authors: joakim
 tags: [styremøte, notater]
 ---
 
-Styremøte knarreviktoppen velforening den oktober notater 
+Styremøte knarreviktoppen velforening den 16 oktober notater 
 
 <!--truncate-->
 # Styremøte knarreviktoppen velforening
@@ -15,4 +15,5 @@ Styremøte knarreviktoppen velforening den oktober notater
 
 ## Saker dette møtet:
 
-* Sak 1:
+* Sak 1:Sandkasse dugnad
+* Sak 2:Søke om midler lekeplassen i Januar
