@@ -1,6 +1,6 @@
 ---
 slug: sandkasse-dugnad-30-oktober-2025
-title: Sandkasse dugnad
+title: Sandkasse dugnad 30 oktober
 authors: joakim
 tags: [dugnad, sandkasse]
 ---
