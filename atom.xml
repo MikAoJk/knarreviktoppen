@@ -40,6 +40,31 @@ som skal utgjøre toppen(sitte delen), og skru disse på plass</li>
         <category label="sandkasse" term="sandkasse"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Styremøte 16 oktober notater]]></title>
+        <id>https://knarreviktoppen.no/styremote-notater-16-oktober-2025</id>
+        <link href="https://knarreviktoppen.no/styremote-notater-16-oktober-2025"/>
+        <updated>2025-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Styremøte knarreviktoppen velforening den 16 oktober notater]]></summary>
+        <content type="html"><![CDATA[<p>Styremøte knarreviktoppen velforening den 16 oktober notater</p>
+<ul>
+<li>Dato: 16.10.2025</li>
+<li>Tilstede: Joakim Taule Kartveit, Mariann Jacobsen, Yaneth Velasquez Cardona</li>
+<li>Sted: Digitalt via Teams</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="saker-dette-møtet">Saker dette møtet:<a href="https://knarreviktoppen.no/styremote-notater-16-oktober-2025#saker-dette-m%C3%B8tet" class="hash-link" aria-label="Direct link to Saker dette møtet:" title="Direct link to Saker dette møtet:" translate="no">​</a></h2>
+<ul>
+<li>Sak 1<!-- -->:Sandkasse<!-- --> dugnad
+Vi inviterer til dugnad 30 oktober kl 16:00</li>
+<li>Sak 2<!-- -->:S<!-- -->øke om midler lekeplassen i Januar
+Vi ønsker å søke om midler til lekeplassen i januar</li>
+</ul>]]></content>
+        <author>
+            <name>Joakim Taule Kartveit</name>
+        </author>
+        <category label="styremøte" term="styremøte"/>
+        <category label="notater" term="notater"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Medlemskontigent 2025]]></title>
         <id>https://knarreviktoppen.no/medldmskontigent-2025</id>
         <link href="https://knarreviktoppen.no/medldmskontigent-2025"/>
@@ -641,23 +666,5 @@ Vi avventer litt da dette krever flere medlemmer som kan bidra i gjennomføringe
         </author>
         <category label="styremøte" term="styremøte"/>
         <category label="notater" term="notater"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kontigent 2024]]></title>
-        <id>https://knarreviktoppen.no/kontigent-2024</id>
-        <link href="https://knarreviktoppen.no/kontigent-2024"/>
-        <updated>2024-03-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Medlemskontingent 2024]]></summary>
-        <content type="html"><![CDATA[<p>Medlemskontingent 2024</p>
-<p>Vi har et ønske å oppfordre medlemmene til å betale
-medlemskontingent på 100 kr i 2024 til Knarreviktoppen
-Velforening sin konto 7325 06 08613.</p>
-<p>Pengene skal brukes til forskjellige formål, bl.a. dugnad, sosiale samlinger, nettside, forefallende vedlikehold av lekeplasser, bed osv. Vi ønsker å arrangere et sosialt treff for at
-beboerne i Knarreviktoppen blir bedre kjent med hverandre og kan snakke om hvordan vi
-ønsker å ha det sammen i nabolaget.</p>]]></content>
-        <author>
-            <name>Joakim Taule Kartveit</name>
-        </author>
-        <category label="kontingent" term="kontingent"/>
     </entry>
 </feed>
