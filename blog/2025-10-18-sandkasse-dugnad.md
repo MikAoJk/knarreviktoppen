@@ -25,6 +25,6 @@ Utstyr som vi trenger at du tar med:
 
 Styre kommer til å bestille innkjøp av ny sand til begge sandkassene Knarreviktoppen 17 og Knarreviktoppen 54.
 
-Styre stiller med kaffe og noe i bite i.
+Styre stiller med kaffe☕ og noe i bite i.
 
 Dersom du ikkje har mulighet til å delta på dugnaden er du velkommen til å tømme sandkassen for sand, når det måtte passe.
