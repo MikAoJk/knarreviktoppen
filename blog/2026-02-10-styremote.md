@@ -10,7 +10,7 @@ Styremøte knarreviktoppen velforening den 10 februar notater
 <!--truncate-->
 # Styremøte knarreviktoppen velforening
  -  Dato: 10.02.2026
- -  Tilstede: Joakim Taule Kartveit, Mariann Jacobsen, Cathrine Blachen Lindal, Yaneth Velasquez Cardona
+ -  Tilstede: Joakim Taule Kartveit, Mariann Jacobsen, Yaneth Velasquez Cardona
  -  Sted: Digitalt via Teams
 
 ## Saker dette møtet:
