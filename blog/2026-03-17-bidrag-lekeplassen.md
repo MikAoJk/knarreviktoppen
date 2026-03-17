@@ -1,16 +1,15 @@
 ---
 slug: lekeplassen-oppgradering-bidrag-17-mars-2026
-title: Styremøte 10 februar notater
+title: Bidrag oppgraderingen lekeplassen
 authors: joakim
-tags: [styremøte, notater]
+tags: [bidrag, lekeplassen]
 ---
 
-Styremøte knarreviktoppen velforening den 10 februar notater 
+Bidrag oppgraderingen lekeplassen
 
 <!--truncate-->
-# Styremøte knarreviktoppen velforening
+# Bidrag oppgraderingen lekeplassen
 
-## Saker
 Knarreviktoppen velforening jobber med å få oppgradert lekeplassen. Vi har fått følgende tilbud fra Søve AS(lekeapparater), og Vågen & Hansen Utemiljø(Demontering/montering):
 
 Lekeapparater med frakt:
@@ -28,7 +27,7 @@ Velforening har pr dags dato ca 90 000 kr til rådighet. Vi ønsker å gjennomf�
 Bidraget kan gis på følgende måte:
 kontonummer: 3060 28 83937 eller
 vipps, nummeret vårt er: 963928
-
+<img src="/img/qr-code.png" /> 
 
 
 Dersom vi får inn mer enn det vi mangler til oppgraderingen, vil det resterende beløpet gå til f.eks sandkasse leker, eller flere lekeapparater. 
