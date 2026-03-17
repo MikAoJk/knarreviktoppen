@@ -1,6 +1,6 @@
 ---
 slug: lekeplassen-oppgradering-bidrag-17-mars-2026
-title: Bidrag oppgraderingen lekeplassen
+title: Bidrag oppgraderingen av lekeplassen
 authors: joakim
 tags: [bidrag, lekeplassen]
 ---
@@ -13,12 +13,12 @@ Bidrag oppgraderingen lekeplassen
 Knarreviktoppen velforening jobber med å få oppgradert lekeplassen. Vi har fått følgende tilbud fra Søve AS(lekeapparater), og Vågen & Hansen Utemiljø(Demontering/montering):
 
 Lekeapparater med frakt:
-Vippe
-Huske
-Pris: 60 665
+- Vippe
+- Huske
+- Pris: 60 665
 
 Demontere/montering, oppgraving, ny fallsand ++:
-Pris: 73 313
+- Pris: 73 313
 
 Totalt beløp : 133 978
 
