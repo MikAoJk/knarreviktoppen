@@ -1,5 +1,5 @@
 ---
-slug: lekeplassen-oppgradering-17-mars-2026
+slug: lekeplassen-oppgradering-bidrag-17-mars-2026
 title: Styremøte 10 februar notater
 authors: joakim
 tags: [styremøte, notater]
