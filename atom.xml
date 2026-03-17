@@ -2,11 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://knarreviktoppen.no/</id>
     <title>Knarreviktoppen velforening Blog</title>
-    <updated>2026-02-10T00:00:00.000Z</updated>
+    <updated>2026-03-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://knarreviktoppen.no/"/>
     <subtitle>Knarreviktoppen velforening Blog</subtitle>
     <icon>https://knarreviktoppen.no/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bidrag oppgraderingen lekeplassen]]></title>
+        <id>https://knarreviktoppen.no/lekeplassen-oppgradering-bidrag-17-mars-2026</id>
+        <link href="https://knarreviktoppen.no/lekeplassen-oppgradering-bidrag-17-mars-2026"/>
+        <updated>2026-03-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bidrag oppgraderingen lekeplassen]]></summary>
+        <content type="html"><![CDATA[<p>Bidrag oppgraderingen lekeplassen</p>
+<p>Knarreviktoppen velforening jobber med å få oppgradert lekeplassen. Vi har fått følgende tilbud fra Søve AS(lekeapparater), og Vågen &amp; Hansen Utemiljø(Demontering/montering):</p>
+<p>Lekeapparater med frakt:
+Vippe
+Huske
+Pris: 60 665</p>
+<p>Demontere/montering, oppgraving, ny fallsand ++:
+Pris: 73 313</p>
+<p>Totalt beløp : 133 978</p>
+<p>Velforening har pr dags dato ca 90 000 kr til rådighet. Vi ønsker å gjennomføre oppgraderingen, og oppfylle kravene som skal til for å ha en godkjent og sikker lekeplass i henhold til kommunens krav; Norsk/Europeisk standard NS-EN 1176 og 1177. Vi lurer derfor på om medlemmene ønsker og har mulighet til å gi ett økonomisk bidrag? Alt hjelper.</p>
+<p>Bidraget kan gis på følgende måte:
+kontonummer: 3060 28 83937 eller
+vipps, nummeret vårt er:
+<a href="https://qr.vipps.no/28/2/05/031/kquSPNq9p">963928</a></p>
+<img src="https://knarreviktoppen.no/img/qr-code.png">
+<p>Dersom vi får inn mer enn det vi mangler til oppgraderingen, vil det resterende beløpet gå til f.eks sandkasse leker, eller flere lekeapparater.</p>
+<p>Takk for at du hjelper til med å skape et trivelig nabolag!</p>]]></content>
+        <author>
+            <name>Joakim Taule Kartveit</name>
+        </author>
+        <category label="bidrag" term="bidrag"/>
+        <category label="lekeplassen" term="lekeplassen"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Styremøte 10 februar notater]]></title>
         <id>https://knarreviktoppen.no/styremote-notater-10-februar-2026</id>
@@ -618,19 +647,5 @@ Styret jobber med dette ved anledning</li>
         </author>
         <category label="styremøte" term="styremøte"/>
         <category label="notater" term="notater"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disponering Parkeringsplasser ved garasjerekker]]></title>
-        <id>https://knarreviktoppen.no/disponering-parkeringsplasser</id>
-        <link href="https://knarreviktoppen.no/disponering-parkeringsplasser"/>
-        <updated>2024-04-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Parkeringsplasser ved garasjerekker/garasjeanlegg tilhører alle eierne/leietakere av disse garasjene.]]></summary>
-        <content type="html"><![CDATA[<p>Parkeringsplasser ved garasjerekker/garasjeanlegg tilhører alle eierne/leietakere av disse garasjene.
-Disse parkeringsplassene kan benyttes av eierne/leietakerne, samt av gjester tilhørende garasjerekker/garasjeanlegg.
-Parkeringsplassene skal ikke brukes som lagringsplass og/eller av øvrige som verken eier en slik garasjeplass eller er på besøk</p>]]></content>
-        <author>
-            <name>Joakim Taule Kartveit</name>
-        </author>
-        <category label="parkingplass" term="parkingplass"/>
     </entry>
 </feed>
