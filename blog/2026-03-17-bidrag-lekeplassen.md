@@ -26,7 +26,8 @@ Velforening har pr dags dato ca 90 000 kr til rådighet. Vi ønsker å gjennomf�
 
 Bidraget kan gis på følgende måte:
 kontonummer: 3060 28 83937 eller
-vipps, nummeret vårt er: 963928
+vipps, nummeret vårt er:
+<a href="https://qr.vipps.no/28/2/05/031/kquSPNq9p">963928</a>
 <img src="/img/qr-code.png" /> 
 
 
