@@ -1,6 +1,6 @@
 ---
 slug: lekeplass-5-mai-2026
-title: Lekeplassen oppdateringe 2026 5 mai 
+title: Lekeplassen oppdatering 
 authors: joakim
 tags: [lekeplassen]
 ---
@@ -8,9 +8,8 @@ tags: [lekeplassen]
 Liten oppdatering ang lekeplassen
 
 <!--truncate-->
-# Liten oppdatering ang lekeplassen
+# Liten oppdatering ang lekeplassen ved Knarreviktoppen 17
 
-Liten oppdatering ang lekeplassen ved Knarreviktoppen 17.
 Den er nå ferdig demontert,men det gjenstår fremdeles bortkjøring av dei gammle lekeapparatene. Så dersom noen kjenner kallet til å ta med delene av dei gammle lekeapparatene å kjøre dei på søppla.
 
 
