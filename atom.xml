@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://knarreviktoppen.no/</id>
     <title>Knarreviktoppen velforening Blog</title>
-    <updated>2026-05-05T00:00:00.000Z</updated>
+    <updated>2026-05-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://knarreviktoppen.no/"/>
     <subtitle>Knarreviktoppen velforening Blog</subtitle>
     <icon>https://knarreviktoppen.no/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Takk for dugnaden]]></title>
+        <id>https://knarreviktoppen.no/takk-dugnad-12-mai-2026</id>
+        <link href="https://knarreviktoppen.no/takk-dugnad-12-mai-2026"/>
+        <updated>2026-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tusen takk til alle som deltok på dugnaden igår]]></summary>
+        <content type="html"><![CDATA[<p>Tusen takk til alle som deltok på dugnaden igår</p>
+<p>Arbeidet gikk unna med liv og lyst.
+Dette resulterte i eit skikkelig løft for gata vår.
+Dersom det skulle være noe dere lurer på, er det bare å kontakte oss i styret: <a href="https://knarreviktoppen.no/docs/styret" target="_blank" rel="noopener noreferrer" class="">https://knarreviktoppen.no/docs/styret</a></p>
+<p>Noen bilder av hvordan resultet ble:</p>
+<img src="https://knarreviktoppen.no/img/20250516_074609.jpg">
+<img src="https://knarreviktoppen.no/img/20250516_074516.jpg">
+<img src="https://knarreviktoppen.no/img/20250516_074434.jpg">]]></content>
+        <author>
+            <name>Joakim Taule Kartveit</name>
+        </author>
+        <category label="dugnad" term="dugnad"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lekeplassen oppdatering]]></title>
         <id>https://knarreviktoppen.no/lekeplass-5-mai-2026</id>
@@ -601,19 +620,5 @@ Noen må gå til innkjøp av sand på obsbygg</p>
         </author>
         <category label="styremøte" term="styremøte"/>
         <category label="notater" term="notater"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invitasjon til randesund bydelsråd årsmøte 2024]]></title>
-        <id>https://knarreviktoppen.no/invitasjon-randesund-bydelsraad-2024</id>
-        <link href="https://knarreviktoppen.no/invitasjon-randesund-bydelsraad-2024"/>
-        <updated>2024-04-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Invitasjon til randesund bydelsråd årsmøte 2024]]></summary>
-        <content type="html"><![CDATA[<p>Invitasjon til randesund bydelsråd årsmøte 2024</p>
-<img src="https://knarreviktoppen.no/img/20240424_213544.jpg">]]></content>
-        <author>
-            <name>Joakim Taule Kartveit</name>
-        </author>
-        <category label="invitasjon" term="invitasjon"/>
-        <category label="bydelsraad" term="bydelsraad"/>
     </entry>
 </feed>
