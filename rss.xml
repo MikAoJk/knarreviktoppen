@@ -4,10 +4,20 @@
         <title>Knarreviktoppen velforening Blog</title>
         <link>https://knarreviktoppen.no/</link>
         <description>Knarreviktoppen velforening Blog</description>
-        <lastBuildDate>Tue, 12 May 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>no</language>
+        <item>
+            <title><![CDATA[Nye sandkasseleker]]></title>
+            <link>https://knarreviktoppen.no/nye-sandkasseleker-19-juni-2026</link>
+            <guid>https://knarreviktoppen.no/nye-sandkasseleker-19-juni-2026</guid>
+            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Da har vi vært ute å handlet inn nye sandkasse leker.]]></description>
+            <content:encoded><![CDATA[<p>Da har vi vært ute å handlet inn nye sandkasse leker.</p>
+<img src="https://knarreviktoppen.no/img/20260619_154702.jpg">]]></content:encoded>
+            <category>sandkasse</category>
+        </item>
         <item>
             <title><![CDATA[Takk for dugnaden]]></title>
             <link>https://knarreviktoppen.no/takk-dugnad-12-mai-2026</link>
@@ -501,69 +511,6 @@ Vedtekter ligger ute i sin helhet her:
 <p>Det ble dessverre ikkje fremlagt, da konto utskrift ikkje var tilgjengelig for styret</p>]]></content:encoded>
             <category>årsmøte</category>
             <category>stiftelsemøte</category>
-        </item>
-        <item>
-            <title><![CDATA[Styremøte 14 mai notater]]></title>
-            <link>https://knarreviktoppen.no/styremote-notater-14-mai-2024</link>
-            <guid>https://knarreviktoppen.no/styremote-notater-14-mai-2024</guid>
-            <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Styremøte knarreviktoppen velforening den 14 mai notater]]></description>
-            <content:encoded><![CDATA[<p>Styremøte knarreviktoppen velforening den 14 mai notater</p>
-<ul>
-<li class="">Dato: 14.05.2024</li>
-<li class="">Tilstede: Joakim Taule Kartveit, Mariann Jacobsen, Cathrine Blachen Lindal, Yaneth Velasquez Cardona</li>
-<li class="">Sted: Digitalt via Teams</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="saker-fra-forrige-møte">Saker fra forrige møte<a href="https://knarreviktoppen.no/styremote-notater-14-mai-2024#saker-fra-forrige-m%C3%B8te" class="hash-link" aria-label="Direct link to Saker fra forrige møte" title="Direct link to Saker fra forrige møte" translate="no">​</a></h2>
-<ul>
-<li class="">Sak 1: Felling av trær ved parkeringsplass ved Knarreviktoppen 35.
-Styret jobber videre med denne</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="saker-dette-møtet">Saker dette møtet:<a href="https://knarreviktoppen.no/styremote-notater-14-mai-2024#saker-dette-m%C3%B8tet" class="hash-link" aria-label="Direct link to Saker dette møtet:" title="Direct link to Saker dette møtet:" translate="no">​</a></h2>
-<ul>
-<li class="">
-<p>Sak 1: Evaluering av dugnaden:
-1.Fordele containere med større mellomrom i gata
-2.Fikse bedet ved hoved lekeplassen
-3.Kaffe og kake/is etter dugnaden
-4.Gode tilbakemeldinger på at det var klare og gode oppgaver på dugnaden</p>
-</li>
-<li class="">
-<p>Sak 2: Ny dugnad i midten av september?
-Oppmerking av parkeringsplasser ved Knarreviktoppen 17?
-Kaffe, kake etter dugnaden sosialt?
-Flytte båt ned til lekeplassen
-Tar dette opp i nytt styremøte</p>
-</li>
-<li class="">
-<p>Sak 3: Parkering
-Pr nå lar vi denne saken ligge.</p>
-</li>
-<li class="">
-<p>Sak 4: Lekeplassen nederst i gata- eget møte?
-Gjennomgang av eventuelle mangler på lekeplassen.
-Neste styremøte tar vi på lekeplassen i begynnelsen av september 3, etter 19:45.</p>
-</li>
-<li class="">
-<p>Sak 5: Søppeltømming i naturen
-Styret har fått beskjed at en beboer har tømt hagesøppel+++
-Styret vil ta en befaring, og undersøkt denne saken meir</p>
-</li>
-<li class="">
-<p>Sak 6: Velkommen skilt i gata?
-Vi undersøker dette, med tanke på pris osv</p>
-</li>
-<li class="">
-<p>Sak 7: Årsmøte/stiftelsesmøte i august?
-Vi prøver å få dette til 19. august, på lekeplassen.</p>
-</li>
-<li class="">
-<p>Sak 8: Sand til sandkassen øverst i Knarreviktoppen
-Noen må gå til innkjøp av sand på obsbygg</p>
-</li>
-</ul>]]></content:encoded>
-            <category>styremøte</category>
-            <category>notater</category>
         </item>
     </channel>
 </rss>
