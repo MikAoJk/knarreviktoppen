@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknarreviktoppen=self.webpackChunkknarreviktoppen||[]).push([[4091],{8124:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/page/4","page":4,"postsPerPage":10,"totalPages":4,"totalCount":31,"previousPage":"/page/3","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
